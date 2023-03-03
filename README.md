@@ -6,9 +6,19 @@ I'm Fabio Rosa, software quality assurance.
 
 ##
 
-[![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiorfloripa&count_private=true&show_icons=true&theme=transparent)](https://github.com/fabiorfloripa/github-readme-stats)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=fabiorfloripa&count_private=true&show_icons=true&theme=transparent"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=fabiorfloripa&count_private=true&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=fabiorfloripa&count_private=true&show_icons=true" />
+</picture>
 
-
+##
 
   <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -24,7 +34,7 @@ I'm Fabio Rosa, software quality assurance.
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg">     
 </div>
   
-  ##
+##
  
 <div> 
   <a href="mailto:fabiorfloripa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -32,4 +42,3 @@ I'm Fabio Rosa, software quality assurance.
 </div>
 
 ### 
-
