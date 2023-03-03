@@ -1,8 +1,8 @@
 ## Hi there 👋
-I'm Fabio Rosa, software quality assurance.
+I'm Fabio Rosa.
 
-- 🔭 I’m currently working as automation engineering at Cortex Intelligence
-- 🌱 I’m currently learning security tests
+- 🧑🏻‍💻 I’m currently working as automation engineering at Cortex Intelligence
+- 📚 I’m currently learning security tests
 
 ##
 
