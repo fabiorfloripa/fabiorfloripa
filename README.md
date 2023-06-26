@@ -1,5 +1,4 @@
-## Hi there 👋
-I'm Fabio Rosa.
+## I'm Fabio Rosa.
 
 - 🧑🏻‍💻 I’m currently working as automation engineering at Cortex Intelligence
 - 📚 I’m currently learning security tests
